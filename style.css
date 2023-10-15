@@ -1,0 +1,86 @@
+/* Header Section */
+.header {
+  background-image: url("img/background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.header h1 {
+  font-size: 3rem;
+  margin-bottom: 20px;
+}
+
+.header p {
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+/* Blog Section */
+.blog h2 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.blog .card {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+/* Contact Form Styles */
+.contact h2 {
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.contact form {
+  background-color: #f8f8f8;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.contact .form-group label {
+  font-weight: bold;
+}
+
+.contact .form-control {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contact textarea.form-control {
+  resize: vertical;
+}
+
+.contact button.btn-dark {
+  margin-top: 10px;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  color: #fff;
+}
+
+.contact button.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Contact Information Styles */
+.contact-info h4 {
+  font-weight: bold;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+}
+
+/* Footer Section */
+.footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
