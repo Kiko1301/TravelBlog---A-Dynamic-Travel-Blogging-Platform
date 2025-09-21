@@ -24,6 +24,7 @@ The project also includes a **sign-in / sign-up system** with styled authenticat
 ├── style.css # Main styles (header, blog, contact, footer)
 ├── signin.css # Custom styles for sign-in form
 ├── img/ # Image assets (background, blog images)
+
 ---
 
 ## 🛠️ Technologies Used
@@ -38,10 +39,12 @@ The project also includes a **sign-in / sign-up system** with styled authenticat
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/travel-blog.git
-2.Place the project in your Tomcat webapps folder.
-3.Start the Tomcat server.
-4.Open in browser: http://localhost:8080/your-project-name/index.jsp
-
+3. Place the project in your Tomcat webapps folder.
+4. Start the Tomcat server.
+5. Open in browser:
+   ```bash
+   http://localhost:8080/your-project-name/index.jsp
+   
 ---
 
 📌 Future Improvements
