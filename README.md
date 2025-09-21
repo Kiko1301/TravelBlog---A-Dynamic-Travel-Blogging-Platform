@@ -17,13 +17,13 @@ The project also includes a **sign-in / sign-up system** with styled authenticat
 ---
 
 ## 📂 Project Structure
-├── index.jsp # Home page
-├── blog.jsp # Blog creation & blog posts page
-├── contact.jsp # Contact form page
-├── signin.jsp # Sign-in / Sign-up page
-├── style.css # Main styles (header, blog, contact, footer)
-├── signin.css # Custom styles for sign-in form
-├── img/ # Image assets (background, blog images)
+- ├── index.jsp # Home page
+- ├── blog.jsp # Blog creation & blog posts page
+- ├── contact.jsp # Contact form page
+- ├── signin.jsp # Sign-in / Sign-up page
+- ├── style.css # Main styles (header, blog, contact, footer)
+- ├── signin.css # Custom styles for sign-in form
+- ├── img/ # Image assets (background, blog images)
 
 ---
 
